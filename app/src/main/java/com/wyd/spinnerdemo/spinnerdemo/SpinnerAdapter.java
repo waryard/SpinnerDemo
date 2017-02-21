@@ -14,6 +14,7 @@ import java.util.List;
  * Created by wyd on 2017/1/10.
  */
 
+
 public class SpinnerAdapter extends BaseAdapter {
     List<String> list = new ArrayList<>();
     Context context;
